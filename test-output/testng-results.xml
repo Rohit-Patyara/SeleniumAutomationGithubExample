@@ -218,32 +218,32 @@
       <![CDATA[Actual and expected successful text messages are same]]>
     </line>
     <line>
-      <![CDATA[Transaction ID is :8095854066]]>
+      <![CDATA[Transaction ID is :7122228903]]>
     </line>
     <line>
       <![CDATA[Application is closed]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-03-04T17:24:03 IST" name="Sanity Suite" finished-at="2025-03-04T17:24:21 IST" duration-ms="17523">
+  <suite started-at="2025-03-05T14:20:50 IST" name="Sanity Suite" finished-at="2025-03-05T14:21:09 IST" duration-ms="18778">
     <groups>
     </groups>
-    <test started-at="2025-03-04T17:24:03 IST" name="Register Demo Flow" finished-at="2025-03-04T17:24:21 IST" duration-ms="17523">
+    <test started-at="2025-03-05T14:20:50 IST" name="Register Demo Flow" finished-at="2025-03-05T14:21:09 IST" duration-ms="18778">
       <class name="com.nxtgenai.mustdoassignment.RegsiterDemoTestNG">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.nxtgenai.mustdoassignment.RegsiterDemoTestNG@1ca3b418]" started-at="2025-03-04T17:24:03 IST" name="launchApplication" finished-at="2025-03-04T17:24:14 IST" duration-ms="11098" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.nxtgenai.mustdoassignment.RegsiterDemoTestNG@1ca3b418]" started-at="2025-03-05T14:20:50 IST" name="launchApplication" finished-at="2025-03-05T14:21:01 IST" duration-ms="11651" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Application is launched]]>
             </line>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="navigateToRegistrationForDemoPage()[pri:1, instance:com.nxtgenai.mustdoassignment.RegsiterDemoTestNG@1ca3b418]" started-at="2025-03-04T17:24:14 IST" name="navigateToRegistrationForDemoPage" finished-at="2025-03-04T17:24:16 IST" duration-ms="1395" status="PASS">
+        <test-method signature="navigateToRegistrationForDemoPage()[pri:1, instance:com.nxtgenai.mustdoassignment.RegsiterDemoTestNG@1ca3b418]" started-at="2025-03-05T14:21:02 IST" name="navigateToRegistrationForDemoPage" finished-at="2025-03-05T14:21:03 IST" duration-ms="1352" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Navigated to register demo page]]>
             </line>
           </reporter-output>
         </test-method> <!-- navigateToRegistrationForDemoPage -->
-        <test-method signature="registerUser()[pri:2, instance:com.nxtgenai.mustdoassignment.RegsiterDemoTestNG@1ca3b418]" started-at="2025-03-04T17:24:16 IST" name="registerUser" finished-at="2025-03-04T17:24:21 IST" duration-ms="4711" status="PASS">
+        <test-method signature="registerUser()[pri:2, instance:com.nxtgenai.mustdoassignment.RegsiterDemoTestNG@1ca3b418]" started-at="2025-03-05T14:21:03 IST" name="registerUser" finished-at="2025-03-05T14:21:08 IST" duration-ms="5421" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Register for demo title is displayed]]>
@@ -451,7 +451,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- registerUser -->
-        <test-method signature="validatingSuccessfulMessage()[pri:3, instance:com.nxtgenai.mustdoassignment.RegsiterDemoTestNG@1ca3b418]" started-at="2025-03-04T17:24:21 IST" name="validatingSuccessfulMessage" finished-at="2025-03-04T17:24:21 IST" duration-ms="68" status="PASS">
+        <test-method signature="validatingSuccessfulMessage()[pri:3, instance:com.nxtgenai.mustdoassignment.RegsiterDemoTestNG@1ca3b418]" started-at="2025-03-05T14:21:08 IST" name="validatingSuccessfulMessage" finished-at="2025-03-05T14:21:08 IST" duration-ms="69" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Successful Message Text is Displayed]]>
@@ -460,11 +460,11 @@
               <![CDATA[Actual and expected successful text messages are same]]>
             </line>
             <line>
-              <![CDATA[Transaction ID is :8095854066]]>
+              <![CDATA[Transaction ID is :7122228903]]>
             </line>
           </reporter-output>
         </test-method> <!-- validatingSuccessfulMessage -->
-        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.nxtgenai.mustdoassignment.RegsiterDemoTestNG@1ca3b418]" started-at="2025-03-04T17:24:21 IST" name="closeApplication" finished-at="2025-03-04T17:24:21 IST" duration-ms="175" status="PASS">
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.nxtgenai.mustdoassignment.RegsiterDemoTestNG@1ca3b418]" started-at="2025-03-05T14:21:08 IST" name="closeApplication" finished-at="2025-03-05T14:21:09 IST" duration-ms="214" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Application is closed]]>
