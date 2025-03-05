@@ -10,6 +10,8 @@ import org.openqa.selenium.support.ui.Select;
 
 public class RegisterForDemoNewModified {
 
+		// Code added by Stark-5 March 2025
+	
 	public static void main(String[] args) {
 
 		// Parameterized all Input Values
